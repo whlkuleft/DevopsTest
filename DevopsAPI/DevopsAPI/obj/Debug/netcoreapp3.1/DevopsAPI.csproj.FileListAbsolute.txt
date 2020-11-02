@@ -1,0 +1,9 @@
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\obj\Debug\netcoreapp3.1\DevopsAPI.csprojAssemblyReference.cache
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\obj\Debug\netcoreapp3.1\DevopsAPI.AssemblyInfoInputs.cache
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\obj\Debug\netcoreapp3.1\DevopsAPI.AssemblyInfo.cs
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\obj\Debug\netcoreapp3.1\DevopsAPI.RazorTargetAssemblyInfo.cache
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\obj\Debug\netcoreapp3.1\staticwebassets\DevopsAPI.StaticWebAssets.Manifest.cache
+D:\GitHub\DevopsTest\DevopsAPI\DevopsAPI\obj\Debug\netcoreapp3.1\staticwebassets\DevopsAPI.StaticWebAssets.xml
